@@ -1,0 +1,5 @@
+tailwindcss
+postcss
+autoprefixer
+socket.io
+socket.io-client
