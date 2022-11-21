@@ -19,6 +19,8 @@ do
   fi
 done < /packages.txt
 
+yarn install && yarn upgrade
+
 
 if [ "$STATUS" == "development" ]; then
   echo Starting in developer mode...
