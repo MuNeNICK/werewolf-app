@@ -3,4 +3,7 @@ Flask-SQLAlchemy
 pymysql
 flask-login
 cryptography
-flask-socketio
+Flask-Sockets      
+gunicorn
+gevent   
+gevent-websocket
